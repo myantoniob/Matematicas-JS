@@ -7,4 +7,4 @@
 - Primer paso: Definir las formulas
 - Segundo paso: Implementar las formulas en JavaScript 
 - Tercer paso: Crear funciones
--Cuarto paso: Integrar JS en html
+- Cuarto paso: Integrar JS en html
